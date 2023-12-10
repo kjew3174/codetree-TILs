@@ -1,0 +1,5 @@
+data = input().split()
+a, b = int(data[0]), int(data[1])
+q = int(a // b)
+r = int(a % b)
+print(f"{q}...{r}")
