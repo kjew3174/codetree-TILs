@@ -1,0 +1,7 @@
+a = int(input())
+data = input().split()
+b, c, d, e = int(data[0]), int(data[1]), int(data[2]), int(data[3])
+print(1 if a > b else 0)
+print(1 if a > c else 0)
+print(1 if a > d else 0)
+print(1 if a > e else 0)
