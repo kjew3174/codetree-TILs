@@ -17,4 +17,4 @@ else:
     else:
         ans = b
 
-print(l[1])
+print(ans)
