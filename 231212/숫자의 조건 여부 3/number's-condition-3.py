@@ -1,2 +1,2 @@
 a = int(input())
-print((a % 13) == 0 and (a % 19) == 0)
+print((a % 13) == 0 or (a % 19) == 0)
