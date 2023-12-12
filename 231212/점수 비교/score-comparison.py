@@ -1,0 +1,5 @@
+data = input().split()
+am, ae = int(data[0]), int(data[1])
+data = input().split()
+bm, be = int(data[0]), int(data[1])
+print(1 if am>bm and ae>be else 0)
