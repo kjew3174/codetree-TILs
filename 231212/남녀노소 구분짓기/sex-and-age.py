@@ -6,7 +6,7 @@ if g == 0:
     else:
         msg = "BOY"
 else:
-    if a >= 10:
+    if a >= 19:
         msg = "WOMAN"
     else:
         msg = "GIRL"
