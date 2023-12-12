@@ -9,3 +9,5 @@ elif m < 12:
     s = "Fall"
 else:
     s = "Winter"
+
+print(s)
