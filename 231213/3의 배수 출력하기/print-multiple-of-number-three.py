@@ -5,3 +5,4 @@ while count <= n:
         print(count, end=' ')
     else:
         pass
+    count += 1
